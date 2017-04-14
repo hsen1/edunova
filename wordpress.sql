@@ -3,35 +3,35 @@ create database wordpress;
 use wordpress;
 
 create table wp_posts (
-ID 					bigint (20) not null primary key auto_increment,
+ID 			        bigint (20) not null primary key auto_increment,
 post_author			bigint (20) not null,
 post_date			datetime not null,
-post_date_gmt		datetime not null,
-post_content		longtext not null,
+post_date_gmt		        datetime not null,
+post_content		        longtext not null,
 post_title			text not null,
-post_excerpt 		text not null,
+post_excerpt 		        text not null,
 post_status			varchar (20) not null,
-comment_status		varchar (20) not null,
+comment_status		        varchar (20) not null,
 ping_status			varchar (20) not null,
-post_password		varchar (20) not null,
+post_password		        varchar (20) not null,
 post_name			varchar (200) not null,
-to_ping				text not null,
+to_ping			text not null,
 pinged				text not null,
 post_modified			datetime not null,
 post_modified_gmt		datetime not null,
-post_content_filterd	longtext not null,
+post_content_filterd	        longtext not null,
 post_parent			bigint (20) not null,
 guid				varchar (255) not null,
 menu_order			int (11) not null,
 post_type			varchar (20) not null,
-post_mime_type		varchar (100) not null,
-comment_count		bigint (20) not null
+post_mime_type		        varchar (100) not null,
+comment_count		        bigint (20) not null
 );
 
 create table wp_postmeta (
-meta_id				bigint (20) not null primary key auto_increment,
-post_id				bigint (20) not null,
-meta_key			varchar (255),
+meta_id			bigint (20) not null primary key auto_increment,
+post_id			bigint (20) not null,
+meta_key		        varchar (255),
 meta_value			longtext
 );
 
