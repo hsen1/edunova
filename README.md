@@ -1,6 +1,4 @@
 # edunova
-edunova
-
 
 Adding files from the education course for PHP programmer 
 
