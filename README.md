@@ -1,6 +1,6 @@
 # edunova
 
-Adding files from the education course for PHP programmer 
+Adding files for the education course - PHP programmer 
 
 Added so far:
 - microsoft example mysql database
