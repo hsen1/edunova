@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Easy Start - Simple</title>
+    <title>DZ1 - Kontakt</title>
     <?php include_once 'head1.php' ?>
 
 

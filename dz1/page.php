@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Easy Start - Page component</title>
+    <title>DZ1 - Sadržaj stranice</title>
 	<?php include_once 'head1.php' ?>
 	
 	
@@ -536,7 +536,7 @@
                 <div class="span4">
 
                     <div class="input-append">
-                        <input class="span9" id="appendedInputButton" size="16" type="text"><button class="btn" type="button">Go!</button>
+                        <input class="span9" id="appendedInputButton" size="16" type="text"><button class="btn" type="button">Kreni!</button>
                     </div>
 
                     <br />

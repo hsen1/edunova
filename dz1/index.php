@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Easy Start - Welcome</title>
+    <title>DZ1 - Početna</title>
     <?php include_once 'head1.php' ?>
 
 <link href="scripts/camera/css/camera.css" rel="stylesheet" type="text/css" />
@@ -52,9 +52,9 @@
                         <div class="span6">
 
                             <div id="divHeaderText" class="page-content">
-                                <div id="divHeaderLine1">Header Text Here!</div><br />
+                                <div id="divHeaderLine1">Tekst zaglavlja ide ovdje!</div><br />
                                 <div id="divHeaderLine2">2nd Line Header Text for calling extra attention to featured content or information.</div><br />
-                                <div id="divHeaderLine3"><a class="btn btn-large btn-secondary" href="#">Secondary Button</a>    <a class="btn btn-large btn-primary" href="#">Primary Button</a></div>
+                                <div id="divHeaderLine3"><a class="btn btn-large btn-secondary" href="#">Sekundarni gumb</a>    <a class="btn btn-large btn-primary" href="#">Primarni gumb</a></div>
                             </div>
 
                         </div>
@@ -97,17 +97,17 @@
 
                     <div class="row-fluid">
                         <div class="span4">
-                            <h2>1/3 Column</h2>
+                            <h2>1/3 Odjeljka</h2>
                             <img src="http://placehold.it/150x90/e7e7e7" class="img-polaroid" style="margin:5px 0px 15px;">                
                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br /><a href="#">Read More &raquo;</a></p>
                         </div>
                         <div class="span4">                
-                            <h2>1/3 Column</h2>
+                            <h2>1/3 Odjeljka</h2>
                             <img src="http://placehold.it/150x90/e7e7e7" class="img-polaroid" style="margin:5px 0px 15px;">  
                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br /><a href="#">Read More &raquo;</a></p>
                         </div>
                         <div class="span4">                
-                            <h2>1/3 Column</h2>                
+                            <h2>1/3 Odjeljka</h2>                
                             <img src="http://placehold.it/150x90/e7e7e7" class="img-polaroid" style="margin:5px 0px 15px;">  
                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br /><a href="#">Read More &raquo;</a></p>
                         </div>

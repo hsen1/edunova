@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Easy Start - Simple</title>
+    <title>DZ1 - O nama</title>
     <?php include_once 'head1.php' ?>
 
 
@@ -73,7 +73,7 @@
                 <div class="span4 sidebar">
 
                     <div class="sidebox">
-                        <h3 class="sidebox-title">Sample Sidebar Content</h3>
+                        <h3 class="sidebox-title">Jednostavni popratni sadržaj</h3>
                         <p>Lorem Ipsum is simply dummy text of the printing and <a href="http://www.oswt.co.uk/">typesetting industry</a>. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s.</p>                       
                     </div>
                     
