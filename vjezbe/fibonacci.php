@@ -1,10 +1,16 @@
+<form method="POST">
+<span>Unesite vrijednost:</span>
+<input type="number" name="v" />
+<input type="submit" value="Ispiši">
+</form>
+
 <?php
 // zadana varijabla
-$v=isset($_GET["v"]) ? $_GET["v"] : "";
+$v=isset($_POST["v"]) ? $_POST["v"] : "";
 
 // provjerava je li postavljena varijabla
-if (isset($_GET["v"]) != true){
-	echo "Morate postaviti vrijednost";
+if (isset($_POST["v"]) != true){
+	echo "Morate unijeti vrijednost";
 } else if ($v < 2) {
 	echo "Unesena vrijednost mora biti 2 ili više";
 } else
