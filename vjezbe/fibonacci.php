@@ -31,7 +31,7 @@ for ($y = 3; $y <= $v; $y++)
 }
 echo "<br />";
 
-// prvojera je li uneseni broj veći od 2
+// ispisuje vrijednost niza
 	echo "Vrijednost fibonaccijevog niza je " . $x[$y-1] / $x[$y-2];	 
 }
 
