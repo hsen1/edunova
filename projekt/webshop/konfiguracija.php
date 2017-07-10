@@ -18,7 +18,7 @@ switch ($_SERVER["HTTP_HOST"]) {
 		$mysqlHost="sql213.byethost3.com";
 		$mysqlBaza="b3_20140412_webshop";
 		$mysqlKorisnik="b3_20140412";
-		$mysqlLozinka="odinesku";
+		$mysqlLozinka=" ";
 		break;
 	default:
 		$putanjaAPP="/";
